@@ -1,7 +1,7 @@
 # lab2_Denis_Grigorovskiy
 
 **Лабораторная работа №2** — создание REST API на **Express.js**  
-Студент: **Denis Grigorovskiy**
+Студент: **Денис Григоровский**
 
 ## Цель работы
 
